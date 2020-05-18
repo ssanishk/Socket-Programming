@@ -1,5 +1,5 @@
 # Socket Programming 
-An attempt at solving Computer Network (CSF303) assignment.
+An attempt at solving Computer Network (CSF303) assignment written in C from scratch.
 
 ## EXECUTION INSTRUCTIONS:
 
